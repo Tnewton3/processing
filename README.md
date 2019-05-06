@@ -12,3 +12,5 @@ Generated different text and combined the headings with an image to create a mov
 Plays a mirrored video of a tiger with a matching sound effect. Sound effect also has reverb and effects on it. 
 ## Project 10
 Generated 3D objects in front of a black background. Users can use the arrow keys to move around the shapes and switch their camera angle.
+
+![Lab10](assets/lab10.PNG)
